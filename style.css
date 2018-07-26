@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+  }
+.result {
+    font-size: 30px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
